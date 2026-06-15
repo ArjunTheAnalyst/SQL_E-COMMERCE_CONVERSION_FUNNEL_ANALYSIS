@@ -86,7 +86,7 @@ Metrics calculated:
 - Overall funnel conversion rates
 - Funnel drop-off percentages
 
-### 2️⃣ Traffic Source Performance
+### 2️⃣ [Traffic Source Performance](02_funnel_performance_by_traffic_source.sql)
 
 Compared acquisition channels using:
 
@@ -101,7 +101,7 @@ Traffic sources analyzed:
 - Organic Search
 - Social Media
 
-### 3️⃣ Time-to-Conversion Analysis
+### 3️⃣ [Time-to-Conversion Analysis](03_time_to_conversion_analysis.sql)
 
 Measured how long purchasing users take to complete the buying journey.
 
@@ -112,7 +112,7 @@ Metrics calculated:
 - Average Cart-to-Purchase Duration
 - Average Total Journey Duration
 
-### 4️⃣ Revenue Performance Analysis
+### 4️⃣ [Revenue Performance Analysis](04_revenue_metrics_summary.sql)
 
 Calculated key monetization metrics:
 
