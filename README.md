@@ -36,6 +36,8 @@ The dataset contains user-level event data representing interactions throughout 
 | traffic_source | Acquisition channel |
 | amount | Revenue generated from purchases |
 
+> ⚠️ Note: The dataset used for this analysis is not included in the repository.
+
 ### Funnel Events
 
 - page_view
