@@ -37,6 +37,7 @@ The dataset contains user-level event data representing interactions throughout 
 | amount | Revenue generated from purchases |
 
 > ⚠️ Note: The dataset used for this analysis is not included in the repository.
+> This project is intended to showcase SQL proficiency through the application of funnel analytics, customer journey analysis, revenue reporting, and business KPI development. The analytical framework can be readily applied to comparable event-based datasets.
 
 ### Funnel Events
 
